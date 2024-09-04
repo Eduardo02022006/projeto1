@@ -1,5 +1,14 @@
 body {
   color:white;
-  background:black;
+  background: black;
   }
   
+  header {
+    border: solid 2px white;
+  }
+
+  section{
+    background: rgb(255, 0, 0);
+    padding-bottom: 80px;
+    padding-top: 80px;                                                                       
+  }
